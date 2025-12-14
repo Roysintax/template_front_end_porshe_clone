@@ -1,7 +1,4 @@
 
-  # Porsche Website Clone
-
-  This is a code bundle for Porsche Website Clone. The original project is available at https://www.figma.com/design/jhNNghrbGgIzVeDFF5KeHs/Porsche-Website-Clone.
 
   ## Running the code
 
